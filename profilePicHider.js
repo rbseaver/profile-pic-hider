@@ -6,20 +6,29 @@
 // @author        Rob Seaver <rob.seaver@gmail.com>
 // @include       https://www.facebook.com/*
 // @include       https://www.instagram.com/*
-// @include       https://www.twitter.com/*
+// @include       https://twitter.com/*
 // @grant         none
 // ==/UserScript==
 
 const selectors = [
   'img._s0._4ooo._5xib._5sq7._44ma._rw.img',
   'img._3me-._3mf1.img',
-  'div.css-1dbjc4n.r-18kxxzh.r-1wbh5a2.r-13qz1uu',
+  '.css-1dbjc4n.r-18kxxzh.r-1wbh5a2.r-13qz1uu',
   'img._6q-tv',
-  'div.css-1dbjc4n.r-sdzlij.r-1p0dtai.r-1mlwlqe.r-1d2f490.r-1udh08x.r-u8s1d.r-zchlnj.r-ipm5af.r-417010'
+  '.css-1dbjc4n.r-sdzlij.r-1p0dtai.r-1mlwlqe.r-1d2f490.r-1udh08x.r-u8s1d.r-zchlnj.r-ipm5af.r-417010'
+];
+
+const events = [
+  'load',
+  'loading',
+  'readystatechange',
+  'scroll',
+  'mouseenter',
+  'DOMContentLoaded'
 ];
 
 ((selectors) => {
-  ['readystatechange', 'scroll'].forEach((state) => {
+  events.forEach((state) => {
     document.addEventListener(state, () => {
       hideProfilePictures(selectors);
     });
