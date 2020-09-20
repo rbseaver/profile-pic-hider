@@ -1,3 +1,12 @@
+## [1.0.2](https://github.com/rbseaver/tampermonkey-scripts/compare/v1.0.1...v1.0.2) (2020-09-20)
+
+
+### Features
+
+* Add additional Facebook elements to cover replies ([a7d609a](https://github.com/rbseaver/tampermonkey-scripts/commit/a7d609a46836e37ebd9e8ecf90d91b4443c9ffad))
+
+
+
 ## 1.0.1 (2020-09-20)
 
 
