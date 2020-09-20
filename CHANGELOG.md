@@ -7,7 +7,7 @@
 
 
 
-## 1.0.1 (2020-09-20)
+## [1.0.1](https://github.com/rbseaver/tampermonkey-scripts/releases/tag/v1.0.1) (2020-09-20)
 
 
 ### Features
