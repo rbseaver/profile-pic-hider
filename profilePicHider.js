@@ -19,7 +19,8 @@ const facebookSelectors = [
   'img._s0._4ooo._5xib._5sq7._44ma._rw.img',
   'img._3me-._3mf1.img',
   'img._62bh.img _8o._8r._2qgu.img',
-  'div._ohe.lfloat'
+  'div._ohe.lfloat',
+  'span._3eoh'
 ];
 
 const selectors = [
