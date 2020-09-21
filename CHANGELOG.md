@@ -1,3 +1,18 @@
+## 1.0.3 (2020-09-21)
+
+
+### Bug Fixes
+
+* Tweak css references for Facebook and Twitter ([39387ae](https://github.com/rbseaver/tampermonkey-scripts/commit/39387ae7c2f3b9acc5ff47d7c809e16d847f4c51))
+
+
+### Features
+
+* Add additional elements for Facebook ([e4d6f3e](https://github.com/rbseaver/tampermonkey-scripts/commit/e4d6f3e42b688b6c30e16a0a964ab30406c10daf))
+* Add additional Facebook elements to cover replies ([46742e2](https://github.com/rbseaver/tampermonkey-scripts/commit/46742e24d023c9996732ff841ab2773530b5dd65))
+
+
+
 ## [1.0.2](https://github.com/rbseaver/tampermonkey-scripts/compare/v1.0.1...v1.0.2) (2020-09-20)
 
 
