@@ -1,3 +1,12 @@
+## [1.0.4](https://github.com/rbseaver/tampermonkey-scripts/compare/v1.0.3...v1.0.4) (2020-09-25)
+
+
+### Bug Fixes
+
+* **facebook:** Facebook array contained an element that was hiding too much ([318329f](https://github.com/rbseaver/tampermonkey-scripts/commit/318329f4ec836cfbfd258577422ef8631b991f88))
+
+
+
 ## 1.0.3 (2020-09-21)
 
 
