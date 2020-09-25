@@ -27,8 +27,6 @@ const selectors = [
   [...facebookSelectors]
 ];
 
-// I don't like this as a catch-all. A better Javascript
-// developer should be able to think about this differently
 const events = [
   'load',
   'loading',
