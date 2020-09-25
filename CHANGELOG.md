@@ -1,3 +1,11 @@
+## [1.0.5](https://github.com/rbseaver/tampermonkey-scripts/compare/v1.0.3...v1.0.5) (2020-09-25)
+
+
+### Bug Fixes
+
+* Correct mistake in building combined array ([c8b3c34](https://github.com/rbseaver/tampermonkey-scripts/commit/c8b3c340546f5c2fe66d01a3987ef9fe6636521b))
+
+
 ## [1.0.4](https://github.com/rbseaver/tampermonkey-scripts/compare/v1.0.3...v1.0.4) (2020-09-25)
 
 
