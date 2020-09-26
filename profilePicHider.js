@@ -29,21 +29,11 @@ const selectors = [
 ];
 
 const events = [
+  'DOMContentLoaded',
   'load',
-  'loading',
-  'readystatechange',
-  'scroll',
   'mouseenter',
-  'DOMContentLoaded'
+  'scroll'
 ];
-
-((selectors) => {
-  events.forEach((e) => {
-    document.addEventListener(e, () => {
-      hideProfilePictures(selectors);
-    });
-  });
-})(selectors.join(','));
 
 const hideProfilePictures = (selectors) => {
   const elements = document.querySelectorAll(selectors);
@@ -58,3 +48,11 @@ const hideProfilePictures = (selectors) => {
     hideProfilePictures(selectors);
   }
 };
+
+((selectors) => {
+  events.forEach((e) => {
+    document.addEventListener(e, () => {
+      hideProfilePictures(selectors);
+    });
+  });
+})(selectors.join(','));
