@@ -1,3 +1,12 @@
+## [1.0.6](https://github.com/rbseaver/tampermonkey-scripts/compare/v1.0.3...v1.0.6) (2020-09-26)
+
+
+### Bug Fixes
+
+* Remove certain listeners that were probably overkill, and move IIFE to bottom for readability ([567bfd5](https://github.com/rbseaver/tampermonkey-scripts/commit/567bfd5e0086739689283b8b8b7e6321e7d2b070))
+
+
+
 ## [1.0.5](https://github.com/rbseaver/tampermonkey-scripts/compare/v1.0.3...v1.0.5) (2020-09-25)
 
 
