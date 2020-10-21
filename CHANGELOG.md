@@ -1,3 +1,11 @@
+## [1.0.7](https://github.com/rbseaver/tampermonkey-scripts/compare/v1.0.3...v1.0.7) (2020-10-21)
+
+
+### Bug Fixes
+
+* **facebook:** Hide profile pictures in notifications area ([de83da9](https://github.com/rbseaver/tampermonkey-scripts/commit/de83da9537877394482c6f848d1179cd6eac05fb))
+
+
 ## [1.0.6](https://github.com/rbseaver/tampermonkey-scripts/compare/v1.0.3...v1.0.6) (2020-09-26)
 
 

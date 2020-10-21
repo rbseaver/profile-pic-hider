@@ -1,6 +1,6 @@
 {
   "name": "tampermonkey-scripts",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Repository of useful Tampermonkey scripts",
   "main": "none",
   "scripts": {
