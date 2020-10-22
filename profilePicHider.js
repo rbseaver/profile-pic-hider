@@ -30,8 +30,6 @@ const selectors = [
 ];
 
 const events = [
-  'DOMContentLoaded',
-  'load',
   'mouseenter',
   'scroll'
 ];
