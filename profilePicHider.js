@@ -28,10 +28,7 @@ const selectors = [
   ...facebookSelectors
 ];
 
-const events = [
-  'mouseenter',
-  'scroll'
-];
+const events = ['mouseenter', 'scroll'];
 
 const hideProfilePictures = (selectors) => {
   const elements = document.querySelectorAll(selectors);
