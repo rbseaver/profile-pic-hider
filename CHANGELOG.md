@@ -1,3 +1,13 @@
+## [1.2.1](https://github.com/rbseaver/tampermonkey-scripts/compare/v1.2.0...v1.2.1) (2020-12-06)
+
+
+### Bug Fixes
+
+* **facebook:** remove selector that was hiding too much stuff ([a820be8](https://github.com/rbseaver/tampermonkey-scripts/commit/a820be8cc580e6ff88a71e29a692e8adaf00014c))
+* **facebook:** add selectors for new Facebook layout ([fd2b828](https://github.com/rbseaver/tampermonkey-scripts/commit/fd2b82817756a671780bbb01c900de12ad15dda1))
+
+
+
 # [1.2.0](https://github.com/rbseaver/tampermonkey-scripts/compare/v1.1.5...v1.2.0) (2020-10-22)
 
 ### Features
