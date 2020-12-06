@@ -1,3 +1,12 @@
+## [1.2.2](https://github.com/rbseaver/tampermonkey-scripts/compare/v1.2.1...v1.2.2) (2020-12-06)
+
+
+### Bug Fixes
+
+* **facebook:** add back some document events ([5ef236a](https://github.com/rbseaver/tampermonkey-scripts/commit/5ef236a2ef45db3230cef29e6b65634c21d535d6))
+
+
+
 ## [1.2.1](https://github.com/rbseaver/tampermonkey-scripts/compare/v1.2.0...v1.2.1) (2020-12-06)
 
 
