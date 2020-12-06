@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Hide Social Media Profile Pictures
 // @namespace     http://tampermonkey.net/
-// @version       1.2.1
+// @version       1.2.2
 // @description   Hide all social media profile pictures until I can figure out a way to hide just the ones with face masks
 // @author        Rob Seaver <rob.seaver@gmail.com>
 // @updateURL     https://raw.githubusercontent.com/rbseaver/tampermonkey-scripts/master/profilePicHider.js
@@ -33,7 +33,12 @@ const selectors = [
   ...facebookSelectors
 ];
 
-const events = ['mouseenter', 'scroll'];
+const events = [
+  'DOMContentLoaded',
+  'load',
+  'mouseenter',
+  'scroll'
+];
 
 const hideProfilePictures = (selectors) => {
   const elements = document.querySelectorAll(selectors);
