@@ -8,6 +8,7 @@
     "parserOptions": {
         "ecmaVersion": 12
     },
+    "ignorePatterns": "*.config.*",
     "rules": {
         "accessor-pairs": "error",
         "array-bracket-newline": "error",

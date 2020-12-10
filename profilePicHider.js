@@ -24,7 +24,8 @@ const facebookSelectors = [
   // Selectors for new layout
   'div.oi9244e8.do00u71z.j83agx80',
   'div.nqmvxvec.s45kfl79.emlxlaya.bkmhp75w.spb7xbtv.a8c37x1j.fv0vnmcu.rs0gx3tq.l9j0dhe7',
-  'div.nqmvxvec.j83agx80.cbu4d94t.tvfksri0.qjjbsfad.w0hvl6rk.l9j0dhe7'
+  'div.nqmvxvec.j83agx80.cbu4d94t.tvfksri0.qjjbsfad.w0hvl6rk.l9j0dhe7',
+  'svg.pzggbiyp'
 ];
 
 const selectors = [
