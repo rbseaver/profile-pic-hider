@@ -1,3 +1,12 @@
+## [1.2.3](https://github.com/rbseaver/tampermonkey-scripts/compare/v1.2.2...v1.2.3) (2020-12-10)
+
+
+### Bug Fixes
+
+* **facebook:** hide profile pics in video chat area ([77c2acd](https://github.com/rbseaver/tampermonkey-scripts/commit/77c2acd81e2458d5f96b5f3e1dd473cfe7a7351e))
+
+
+
 ## [1.2.2](https://github.com/rbseaver/tampermonkey-scripts/compare/v1.2.1...v1.2.2) (2020-12-06)
 
 
